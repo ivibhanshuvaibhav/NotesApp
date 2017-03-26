@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title">Title</string>
+    <string name="image_button">Add Image</string>
+    <string name="note">Note</string>
+    <string name="note_button">Add Note</string>
+</resources>
